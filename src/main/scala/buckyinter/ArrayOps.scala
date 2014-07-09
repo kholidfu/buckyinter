@@ -1,6 +1,5 @@
 package buckyinter
 
-
 // Bucky Intermediate Java #6
 class ArrayOps {
   def act = {
