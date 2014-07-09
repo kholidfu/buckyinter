@@ -22,7 +22,7 @@ class ConvertListToArray_8 {
   }
 }
 
-object Main {
+object ConvertListToArray_8 {
   def main(args: Array[String]) {
     val c = new ConvertListToArray_8
     c.act
