@@ -1,5 +1,7 @@
 package buckyinter
 
+
+// Bucky Intermediate Java #6
 class ArrayOps {
   def act = {
     val things = Array("eggs", "lasers", "hats", "pie")
